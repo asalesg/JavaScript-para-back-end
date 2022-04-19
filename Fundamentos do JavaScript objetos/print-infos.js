@@ -1,8 +1,8 @@
 const cliente = {
-    nome: 'André',
-    idade: 32,
-    cpf: '96325874132',
-    email: 'andre@mail.com'
+  nome:"Andre",
+  idade:36,
+  cpf:"12543652266",
+  email:"andre@email.com"
 }
 
 console.log(`Meu nome é ${cliente.nome} e tenho ${cliente.idade} anos.`)
